@@ -1,7 +1,7 @@
 {
   "name": "token-shark",
-  "version": "0.1.0",
-  "description": "🎯 TokenSniper - 代币狙击手，新代币监控和风险评估",
+  "version": "1.0.0",
+  "description": "🎯 TokenShark - 代币狙击，新币监控 + 风险评分 + 流动性分析",
   "main": "scripts/monitor.mjs",
   "type": "module",
   "scripts": {

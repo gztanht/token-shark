@@ -1,0 +1,20 @@
+{
+  "alerts": [
+    {
+      "id": 1772800666646,
+      "address": "0x8f3B2A8e",
+      "targetPrice": 0.01,
+      "condition": "above",
+      "createdAt": "2026-03-06T12:37:46.646Z",
+      "triggered": false
+    },
+    {
+      "id": 1772800915246,
+      "address": "0x1a2b3c4d",
+      "targetPrice": 0.005,
+      "condition": "below",
+      "createdAt": "2026-03-06T12:41:55.246Z",
+      "triggered": false
+    }
+  ]
+}

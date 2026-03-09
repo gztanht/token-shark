@@ -1,0 +1,28 @@
+{
+  "name": "token-shark",
+  "displayName": "🎯 TokenShark",
+  "version": "1.0.0",
+  "description": "代币狙击与风险评估 - 新代币监控，多维度风险评分，流动性追踪，起飞前狙击",
+  "author": "@gztanht",
+  "license": "MIT",
+  "pricing": {
+    "model": "freemium",
+    "freeQuota": 5,
+    "freeQuotaPeriod": "daily",
+    "unlimitedPrice": "0.5",
+    "unlimitedCurrency": "USDT"
+  },
+  "category": "crypto",
+  "tags": ["token", "risk", "analysis", "dex", "monitoring", "defi"],
+  "features": [
+    "新代币监控",
+    "5 维风险评分",
+    "流动性分析",
+    "价格警报",
+    "合约安全检查"
+  ],
+  "repository": "https://github.com/gztanht/token-shark",
+  "homepage": "https://clawhub.com/skills/token-shark",
+  "createdAt": "2026-03-06",
+  "updatedAt": "2026-03-09"
+}
