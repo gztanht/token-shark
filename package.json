@@ -24,9 +24,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gztanht/token-sniper"
+    "url": "https://github.com/gztanht/token-shark"
   },
-  "homepage": "https://clawhub.com/skills/token-sniper",
+  "homepage": "https://clawhub.com/skills/token-shark",
   "funding": {
     "type": "crypto",
     "usdt": "0x33f943e71c7b7c4e88802a68e62cca91dab65ad9",
